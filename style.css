@@ -4,6 +4,17 @@
     font-family: monospace;
 }
 
+.blue-box {
+    background-color: darkcyan;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 844px;
+}
+
 .container {
     margin: 0 auto;
     margin-top: 30px;
@@ -15,10 +26,11 @@
 img.profile-pic {
     width: 100px;
     height: 100px; 
+    position: absolute;
 }
 
 h1 {
-    padding: 10px 0px;
+    padding: 100px 0px 9px 9px;
     font-size: 40px;
 }
 
